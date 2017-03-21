@@ -1,0 +1,23 @@
+{
+  "name": "chai-mocha-basics",
+  "version": "1.0.0",
+  "description": "A bsic chai mocha setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasriime/Mocha-chai-test.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Mohamed NasrAllah",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/nasriime/Mocha-chai-test/issues"
+  },
+  "homepage": "https://github.com/nasriime/Mocha-chai-test#readme"
+}
